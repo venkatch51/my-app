@@ -1,0 +1,19 @@
+.zom-logo{
+
+}
+.cnt-right {
+    display: inherit;
+}
+a.nav-link {
+    color: #FFF;
+    /* border: 1px solid #FFF; */
+}
+.bg-img {
+    background-image: url(https://b.zmtcdn.com/mx-onboarding-hero87f77501659a5656cad54d98e72bf0d81627911821.webp);
+    height: 400px;
+    width: 100%;
+    background-position: top right 40px;
+}
+.hunger{
+    font-size: 30px
+}
